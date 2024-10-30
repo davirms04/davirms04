@@ -18,7 +18,7 @@ Me chamo Davi Ramos, tenho 20 anos e sou estudante de Análise e Desenvolvimento
  
 ## GitHub Status
  
-![Status GitHub](https://github-readme-stats.vercel.app/api?username=davirms04&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davirms04&layout=compact&bg_color=000&border_color=FFFFFF&title_color=433D8B&text_color=FFF09)
+![davirms04's Stats](https://github-readme-stats.vercel.app/api?username=davirms04&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![davirms04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davirms04&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
  
 
 
