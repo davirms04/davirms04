@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bem Vindo(a)!
+ 
+Me chamo Davi Ramos, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas com base em desenvolvimento Full-Stack pela UNIGRANRIO.
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davirms04)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-filipe-barbosa-ramos-7391b4292/)
+ 
+## Conhecimentos
+ 
+| Linguagens   | Ferramentas        | Bibliotecas/Framework             |
+|--------------|---------------------|----------------------------------|
+| [![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)      | [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)                                 |  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)     |
+|  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)     | [![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | [![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)         |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)  | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/) 
 
-<!--
-**davirms04/davirms04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meus Projetos
+ 
+- [Projetos desenvolvidos em cursos](): Pastas de projetos desenvolvidos com cursos como a Alura e Coti
+ 
+## GitHub Status
+ 
+![Status GitHub](https://github-readme-stats.vercel.app/api?username=davirms04&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davirms04&layout=compact&bg_color=000&border_color=FFFFFF&title_color=433D8B&text_color=FFF09)
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
